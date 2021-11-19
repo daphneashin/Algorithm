@@ -1,4 +1,5 @@
 # 곱셈 문제
 # 출처: https://www.acmicpc.net/problem/10998
+
 a, b = map(int, input().split())
 print(a*b)
